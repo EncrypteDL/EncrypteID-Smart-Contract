@@ -1,0 +1,4 @@
+PySimpleGUI
+json
+genericpath
+web3
