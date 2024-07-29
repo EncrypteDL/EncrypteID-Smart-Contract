@@ -1,7 +1,3 @@
-Certainly! Below is a general `README.md` template for your project, which includes details on dependencies, setup, and example output.
-
----
-
 # EncrypteID Smart Contract
 
 EncrypteID is a decentralized platform for digital identity and credential verification using blockchain technology. This repository contains the smart contracts written in Solidity, along with Python and Go code for interacting with the contracts and supporting infrastructure.
