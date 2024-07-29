@@ -6,9 +6,6 @@ Certainly! Below is a general `README.md` template for your project, which inclu
 
 EncrypteID is a decentralized platform for digital identity and credential verification using blockchain technology. This repository contains the smart contracts written in Solidity, along with Python and Go code for interacting with the contracts and supporting infrastructure.
 
-## Overview
-
-EncrypteID aims to provide a secure and efficient system for managing digital identities and verifying credentials. The platform leverages blockchain technology to ensure the immutability and transparency of identity data, making it ideal for applications in various industries, including finance, healthcare, and education.
 
 ## Dependencies
 
@@ -103,6 +100,3 @@ Transaction successful! You are now a candidate in the 'New Election'.
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. This project is licensed under the MIT License.
 
----
-
-This README provides a high-level overview and setup guide. Make sure to customize the instructions and details according to your project's specific needs and configuration.
